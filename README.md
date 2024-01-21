@@ -12,7 +12,7 @@
   
   ### Language
 
-  ![Java](https://img.shields.io/badge/JAVA-23ED8B?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Java](https://img.shields.io/badge/JAVA-FF0033?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   <br>
