@@ -4,7 +4,7 @@
 
   ## Currently Learning
   
-  ### _Electrical and Electronic Engineering_ 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 at 𝐘𝐎𝐍𝐒𝐄𝐈 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐈𝐓𝐘
+  ### **_Electrical and Electronic Engineering_** 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 at 𝐘𝐎𝐍𝐒𝐄𝐈 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐈𝐓𝐘
 
   ### [![](https://img.shields.io/badge/🦅Yonsei_Univ-00205B.svg?&style=plastic&link=https://www.yonsei.ac.kr/sc/)](https://www.yonsei.ac.kr/sc/)
 
