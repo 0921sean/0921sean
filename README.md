@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=SeungBeom%20Cheon&fontColor=FFFFFF&fontSize=80)
 
-Welcome to my GitHub!
-I'm SeungBeom Cheon, Back-End Engineer from South Korea.
-
+<div align="center">
 ## Currently Learning
 
 Electrical and Electronic Engineering at YONSEI UNIVERSITY
@@ -19,3 +17,4 @@ Electrical and Electronic Engineering at YONSEI UNIVERSITY
 
 ### Tools
 <a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/0921sean-배경색?style=flat&logo=appveyor&logoColor=E4405F"/></a>
+</div>
