@@ -1,6 +1,6 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=SeungBeom%20Cheon&fontColor=FFFFFF&fontSize=80)
 
-<div align="center">
 ## Currently Learning
 
 Electrical and Electronic Engineering at YONSEI UNIVERSITY
