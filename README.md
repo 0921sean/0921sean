@@ -60,6 +60,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=plastic&logo=Gmail&logoColor=white&link=mailto:0921sean@gmail.com)](mailto:0921sean@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/0921sean/)](https://www.instagram.com/0921sean/)
+  [![Tistory](https://img.shields.io/badge/Tistory-E4405F.svg?&style=plastic&logo=Tistory&logoColor=white&link=https://hazel-nut01.tistory.com/)](https://hazel-nut01.tistory.com/)
   [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=개발자국)](https://hazel-nut01.tistory.com/)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=80&section=footer&fontSize=80)
