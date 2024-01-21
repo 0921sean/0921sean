@@ -4,7 +4,7 @@
 
   ## Currently Learning
   
-  <div font-style="oblique">Electrical and Electronic Engineering</div> at YONSEI UNIVERSITY
+  <div font-style="italic">Electrical and Electronic Engineering</div> at YONSEI UNIVERSITY
   
   
   
