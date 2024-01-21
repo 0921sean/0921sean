@@ -4,7 +4,7 @@
 
   ## Currently Learning
   
-  ### *_Electrical and Electronic Engineering_* 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 at 𝐘𝐎𝐍𝐒𝐄𝐈 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐈𝐓𝐘
+  ### 𝐸𝑙𝑒𝑐𝑡𝑟𝑖𝑐𝑎𝑙 𝑎𝑛𝑑 𝐸𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑖𝑐 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 at 𝐘𝐎𝐍𝐒𝐄𝐈 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐈𝐓𝐘
 
   ### [![](https://img.shields.io/badge/🦅Yonsei_Univ-00205B.svg?&style=plastic&link=https://www.yonsei.ac.kr/sc/)](https://www.yonsei.ac.kr/sc/)
 
@@ -60,7 +60,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=plastic&logo=Gmail&logoColor=white&link=mailto:0921sean@gmail.com)](mailto:0921sean@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/0921sean/)](https://www.instagram.com/0921sean/)
-  [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=개발자국)](https://github.com/loosie/github-readme-tistory-card)
+  [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name="개발자국")](https://github.com/loosie/github-readme-tistory-card)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=80&section=footer&fontSize=80)
 
