@@ -46,7 +46,7 @@
 
   ![SeungBeom Cheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0921sean&show_icons=true&theme=radical)
   <br><br>
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0921sean&layout=compact)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0921sean&layout=compact&theme=radical)
   
   ## Contact
 
