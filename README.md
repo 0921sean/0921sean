@@ -45,7 +45,9 @@
   ### else
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0921sean&show_icons=true&theme=radical)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0921sean&layout=compact&theme=radical)
+  
   [![https://solved.ac/0921sean](http://mazassumnida.wtf/api/v2/generate_badge?boj=0921sean)](https://solved.ac/0921sean)
   
   ## Contact
