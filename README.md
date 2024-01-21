@@ -44,7 +44,7 @@
 
   ## else
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![SeungBeom Cheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0921sean&show_icons=true&theme=radical)
   
   ## Contact
 
