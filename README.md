@@ -5,4 +5,4 @@ I'm SeungBeom Cheon, Back-End Engineer from South Korea.
 
 ## Things I code with
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=plastic&logo=appveyor&logoColor=#E4405F"/></a>
