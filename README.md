@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=SeungBeom%20Cheon&fontColor=FFFFFF&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&text=SeungBeom%20Cheon&fontColor=FFFFFF&fontSize=80)
 
 Welcome to my GitHub!
 I'm SeungBeom Cheon, Back-End Engineer from South Korea.
