@@ -21,7 +21,7 @@
   ![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   
   ### Framework
-  ![Django](
+  ![Django](https://img.shields.io/badge/Django-006600?&style=for-the-badge&logo=Django&logoColor=white)
   
   ### Tools
   <a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/0921sean-배경색?style=flat&logo=appveyor&logoColor=E4405F"/></a>
