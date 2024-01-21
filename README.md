@@ -5,4 +5,4 @@ I'm SeungBeom Cheon, Back-End Engineer from South Korea.
 
 ## Things I code with
 
-<a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/instagram-배경색?style=flat&logo=appveyor&logoColor=E4405F"/></a>
+<a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/0921sean-배경색?style=flat&logo=appveyor&logoColor=E4405F"/></a>
