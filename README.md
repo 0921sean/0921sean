@@ -12,11 +12,16 @@
   
   ### Language
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+  ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
+  <br>
+  ![C](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   
   ### Framework
+  ![Django](
   
   ### Tools
   <a href="https://www.instagram.com/0921sean?igsh=b3Q1bngwaGs1aHB3" target="_blank"><img src="https://img.shields.io/badge/0921sean-배경색?style=flat&logo=appveyor&logoColor=E4405F"/></a>
