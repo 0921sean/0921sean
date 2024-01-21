@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=SeungBeom%20Cheon)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=SeungBeom%20Cheon&fontColor=d6ace6&fontSize=40)
 ### Hi there 👋
 
 Welcome to my GitHub!
