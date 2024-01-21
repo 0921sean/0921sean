@@ -42,9 +42,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-  ## else
+  ### else
 
   ![SeungBeom Cheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=0921sean&show_icons=true&theme=radical)
+  <br><br>
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0921sean&layout=compact)
   
   ## Contact
 
